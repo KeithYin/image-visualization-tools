@@ -1,6 +1,6 @@
 # image visualization tools
 
-The most part of this repo come from [tensorflow object detection API](Tensorflow Object Detection API) but has one external method `semantic_image` and remove the dependencies of tensorflow package.
+The most part of this repo come from [tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection) but has one external method `semantic_image` and remove the dependencies of tensorflow package.
 
 **dependencies**
 
